@@ -5,21 +5,13 @@ Full repository available at: https://github.com/SimoAntikainen/reaktor-summer-2
 
 ## Excersise 1
 
-<<<<<<< HEAD
-{% include_relative small-multiples-excersise1.html %}
-=======
-
->>>>>>> d5833d2361a997381ab5e0b95f616ab9cbd6cf19
+{% include small-multiples-excersise1.html %}
 
 
 
 ## Excersise 4
 
-<<<<<<< HEAD
-{% include_relative prediction-excersise4.html %}
-=======
-
->>>>>>> d5833d2361a997381ab5e0b95f616ab9cbd6cf19
+{% include prediction-excersise4.html %}
 
 
 
