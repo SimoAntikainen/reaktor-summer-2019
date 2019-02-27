@@ -1,10 +1,10 @@
 # Reaktor summer 2019
 
-Preassignment for reaktor machine learing summer job.
+preliminary assignment for reaktor machine learing summer job.
 Answers to excersises available at https://simoantikainen.github.io/reaktor-summer-2019/
 
 
-## Prequisites
+## Prequisites for 
 
 `pip install numpy pandas matplotlib sklearn statsmodelspmdarima`
 
