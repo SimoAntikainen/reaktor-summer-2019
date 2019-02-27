@@ -1,19 +1,21 @@
 # Reaktor machine-learning preliminary assignment
 
-Full repository available at [HERE]
-(https://github.com/SimoAntikainen/reaktor-summer-2019)
+Full repository available at: https://github.com/SimoAntikainen/reaktor-summer-2019
 
 
 ## Excersise 1
 dsadsad
 
 
+[link](small-multiples-excersise1.html)
 
 
 
 
 
 
-## Excersise 2
 
-dsds
+
+## Excersise 4
+
+[link](prediction-excersise4.html)
