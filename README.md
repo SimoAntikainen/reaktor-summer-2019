@@ -1,10 +1,11 @@
 # Reaktor summer 2019
 
 preliminary assignment for reaktor machine learing summer job.
+
 Answers to excersises available at https://simoantikainen.github.io/reaktor-summer-2019/
+Check the code for the visualization at prediction-workfiles.ipynb
 
-
-## Prequisites 
+## Prequisites
 
 `pip install requirements.txt`
 

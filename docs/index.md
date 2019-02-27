@@ -28,6 +28,11 @@ Sunspot data from the World Data Center SILSO, Royal Observatory of Belgium, Bru
 {% include_relative prediction-excersise4.html %}
 </div>
 
+For prediction an ARIMA time-series model was used as it is familiar with me through coursework. Pro's of this model are that it is easily explainable as the prediction depends only on
+the past values of temperature anomaly. The model also takes a little time to fit and predict. 
+
+Cons's of the model are related to the fact that it cannot take into account any exogenous data such as rising co2 concentration and solar activity. This is responsible for the low value of the prediciton. For this we could extend the model
+from ARIMA to ARIMAX (X for exogenous variables), but then we would have to also make predictions on these exogenous variables, which add a degree of uncertanty to the model I do not have the expertice to evaluate. I have an separate repository of these failed models at https://github.com/SimoAntikainen/sarimax-climate-change-forecast.       
 
 ## Excersise 5
 
