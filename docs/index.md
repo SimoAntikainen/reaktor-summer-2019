@@ -4,10 +4,7 @@ Full repository available at: https://github.com/SimoAntikainen/reaktor-summer-2
 
 
 ## Excersise 1
-dsadsad
-
-
-[link](small-multiples-excersise1.html)
+{% small-multiples-excersise1.html %}
 
 
 
@@ -18,4 +15,10 @@ dsadsad
 
 ## Excersise 4
 
-[link](prediction-excersise4.html)
+{% prediction-excersise4.html %}
+
+
+
+
+
+## Excersise 5
