@@ -6,7 +6,7 @@ Answers to excersises available at https://simoantikainen.github.io/reaktor-summ
 
 ## Prequisites for 
 
-`pip install numpy pandas matplotlib sklearn statsmodelspmdarima`
+`pip install requirements.txt`
 
 ## Data Sources 
 
