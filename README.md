@@ -4,7 +4,7 @@ preliminary assignment for reaktor machine learing summer job.
 Answers to excersises available at https://simoantikainen.github.io/reaktor-summer-2019/
 
 
-## Prequisites for 
+## Prequisites 
 
 `pip install requirements.txt`
 
