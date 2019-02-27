@@ -4,6 +4,7 @@ Full repository available at: https://github.com/SimoAntikainen/reaktor-summer-2
 
 
 ## Excersise 1
+
 {% small-multiples-excersise1.html %}
 
 
