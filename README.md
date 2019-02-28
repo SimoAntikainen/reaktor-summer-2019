@@ -7,7 +7,7 @@ Check the code for the visualization at prediction-workfiles.ipynb
 
 ## Prequisites for running pewsiction-workfiles.ipynb
 
-`pip install requirements.txt`
+`pip install numpy pandas statsmodels pmdarima plotly jupyter`
 
 ## Data Sources 
 
