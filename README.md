@@ -5,9 +5,9 @@ preliminary assignment for reaktor machine learing summer job.
 Answers to excersises available at https://simoantikainen.github.io/reaktor-summer-2019/
 Check the code for the visualization at prediction-workfiles.ipynb
 
-## Prequisites
+## Prequisites for running pewsiction-workfiles.ipynb
 
-`pip install requirements.txt`
+`pip install --upgrade -r requirements.txt`
 
 ## Data Sources 
 
