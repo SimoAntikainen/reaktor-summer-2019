@@ -7,7 +7,7 @@ Check the code for the visualization at prediction-workfiles.ipynb
 
 ## Prequisites for running pewsiction-workfiles.ipynb
 
-`pip install --upgrade -r requirements.txt`
+`pip install requirements.txt`
 
 ## Data Sources 
 
