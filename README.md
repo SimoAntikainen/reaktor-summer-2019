@@ -5,9 +5,9 @@ preliminary assignment for reaktor machine learing summer job.
 Answers to excersises available at https://simoantikainen.github.io/reaktor-summer-2019/
 Check the code for the visualization at prediction-workfiles.ipynb
 
-## Prequisites for running pewsiction-workfiles.ipynb
+## Prequisites for running prediction-workfiles.ipynb
 
-`pip install numpy pandas statsmodels pmdarima plotly jupyter`
+`pip3 install numpy pandas statsmodels pmdarima plotly jupyter`
 
 ## Data Sources 
 
